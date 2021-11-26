@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test_named_tuples",
+      "setup": "sudo -H pip3 install pytest",
+      "setup": "sudo -H pip3 install faker"
+      "run": "pytest -vv",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    }
+  ]
+}
